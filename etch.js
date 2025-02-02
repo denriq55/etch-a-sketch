@@ -18,8 +18,8 @@ function createDivs(num) {
    
         cell.classList.add("cell");
   
-        cell.style.width = 500/num - 2 + "px"
-        cell.style.height = 500/num - 2 + "px" 
+        cell.style.width = 300/num - 2 + "px"
+        cell.style.height = 300/num - 2 + "px" 
     
         container.appendChild(cell);
         
